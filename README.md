@@ -15,4 +15,5 @@ The deep learning model employed in this notebook utilizes convolutional neural 
 The notebook provides code for preprocessing the MRI scans and splitting the dataset into training, evaluation and testing sets. The model is trained on the training set, each epoch is evaluated on evaluation set. The testing set assess its classification performance. Accuracy, precision, recall, and F1-score metrics are used to measure the model's performance.
 
 **Used Libraries**
+
 Tensorflow, Numpy, OpenCV, Matplotlib
