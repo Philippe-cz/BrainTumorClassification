@@ -4,7 +4,7 @@ This Jupyter Notebook contains an implementation of a deep learning model for br
 
 **Dataset**
 
-The dataset used in this notebook consists of a collection of MRI scans of brain tumors. Dataset https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+The dataset used in this notebook consists of a collection of MRI scans of brain tumors. Dataset URL: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 **Model Architecture**
 
